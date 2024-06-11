@@ -1,5 +1,3 @@
-// backend/api/feedback.ts
-
 import { NextResponse } from "next/server";
 
 let feedbackEntries: { name: string; feedback: string }[] = [];
