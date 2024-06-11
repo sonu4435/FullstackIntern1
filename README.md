@@ -10,7 +10,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/sonu4435/FullstackIntern1]
+git clone https://github.com/sonu4435/FullstackIntern1
 ````
 
 2.  Install dependencies:
